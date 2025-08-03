@@ -159,6 +159,22 @@
       "api": "https://subocaiji.com/api.php/provide/vod",
       "name": "速播资源",
       "detail": "https://subocaiji.com"
+    },
+      "chacha": {
+      "api": "https://chacha.design/api.php/provide/vod",
+      "name": "茶杯狐动漫"
+    },
+    "bidi": {
+      "api": "https://www.bidianime.com/api.php/provide/vod",
+      "name": "哔嘀动漫"
+    },
+    "halihali": {
+      "api": "https://halihali.lol/api.php/provide/vod",
+      "name": "哈哩哈哩"
+    },
+    "sakura": {
+      "api": "https://api.gimytv.com/api.php/provide/vod",
+      "name": "樱花动漫P"
     }
   },
   "custom_category": [
@@ -190,10 +206,14 @@
     { "name": "港剧", "type": "tv", "query": "港剧" },
     { "name": "日本动漫", "type": "tv", "query": "日本动画" },
     { "name": "中国动漫", "type": "tv", "query": "中国动画" },
-    { "name": "国漫", "type": "tv", "query": "国漫" },
     { "name": "综艺", "type": "tv", "query": "综艺" },
     { "name": "纪录片", "type": "tv", "query": "纪录片" },
     { "name": "HBO", "type": "tv", "query": "HBO" },
     { "name": "Netflix", "type": "tv", "query": "Netflix" }
+    { "name": "斗罗大陆", "type": "tv", "query": "斗罗大陆" },
+    { "name": "凡人修仙传", "type": "tv", "query": "凡人修仙传" },
+    { "name": "完美世界", "type": "tv", "query": "完美世界" },
+    { "name": "吞噬星空", "type": "tv", "query": "吞噬星空" },
+    { "name": "不良人", "type": "tv", "query": "画江湖之不良人" }
   ]
 }
